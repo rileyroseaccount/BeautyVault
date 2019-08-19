@@ -2877,7 +2877,7 @@ input::-webkit-inner-spin-button,input::-webkit-outer-spin-button {
 }
 
 .ct-link-color {
-    color: #4a90e2
+    color: #4a90e2 !important; /* 08/16/2019 Added !Important */
 }
 
 .ct-points-color {
